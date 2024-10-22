@@ -1,0 +1,32 @@
+img{
+width:100%;
+}
+.shop{
+background-color: #F78486;
+width: 100%;
+}
+.cakes{
+background-color: #88fc04;
+float:left;
+width:50%;
+}
+.mombran{
+background-color: #88fc04;
+float:left;
+width:50%;
+}
+.zaphatorute{
+background-color: #88fc04;
+float:left;
+width:50%;
+}
+.shu-kuri-mu{
+background-color: #88fc04;
+float:left;
+width:50%;
+}
+.wrap{
+background-color: #037386;
+display:flex;
+flex-wrap:wrap;
+}
